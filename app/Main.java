@@ -58,6 +58,7 @@ public class Main {
                 default:
                     System.out.println("Invalid selection. Try again.");
             }
+            sc.close();
         }
     }
 }
